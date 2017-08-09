@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="exercise">Exercise:</string>
+    <string name="brush_teeth">Brush Teeth:</string>
+    <string name="medication">Medication:</string>
+    <string name="feeling">Feeling:</string>
+</resources>
